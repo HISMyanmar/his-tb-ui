@@ -1,10 +1,10 @@
-KenyaUI OpenMRS Module
+UI OpenMRS Module
 ======================
 <a href="http://ci.kenyaemr.org/viewType.html?buildTypeId=bt2"><img src="http://ci.kenyaemr.org/app/rest/builds/buildType:kenyaui_mvn/statusIcon"/></a>
 
 Overview
 --------
-This module is a library of widgets, decorators, and fragments and resources for use with [KenyaEMR](https://github.com/I-TECH/openmrs-module-kenyaemr).
+This module is a library of widgets, decorators, and fragments and resources for use with [EMR](https://github.com/hispindia/his-tb-emr).
 This was forked from uilibrary as that module is no longer maintained.
 
 Accreditation
